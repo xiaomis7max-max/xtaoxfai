@@ -1,0 +1,10 @@
+{
+  "version": "0.0.2",
+  "versionCode": 2,
+  "minVersion": "0.0.1",
+  "minVersionCode": 1,
+  "forceUpdate": false,
+  "downloadUrl": "https://github.com/xiaomis7max-max/xtaoxfai/releases/download/v0.0.2/xtao-v0.0.2.apk",
+  "changelog": "0.0.2 更新：1. 支持云更新 2. 启动自动检查新版本 3. 优化上下文保留 4. 签名防二次打包",
+  "channel": "@xtaokfai"
+}
